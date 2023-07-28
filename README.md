@@ -1,6 +1,6 @@
 ## Olá, sou o Igor Monteiro!
 
-- 🔭 Atualmente estou tentando migrar para a área
+- 🔭 Em migração de área
 - 🌱 Estudando Java
 
 <div>
