@@ -4,6 +4,6 @@
 - 🌱 Estudando Java
 
 <div>
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=IMonteiroDev&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=IMonteiroDev&show_icons=true&theme=nightowl"/>
 </div>
 
