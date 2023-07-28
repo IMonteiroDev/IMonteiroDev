@@ -5,6 +5,6 @@
 
 <div>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=IMonteiroDev&show_icons=true&theme=nightowl"/>
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IMonteiroDev&layout=donut-vertical&langs_count=16&theme=nightowl"/>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IMonteiroDev&layout=compact&langs_count=16&theme=nightowl"/>
 </div>
 
