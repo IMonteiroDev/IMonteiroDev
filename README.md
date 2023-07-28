@@ -3,9 +3,5 @@
 - 🔭 Atualmente estou tentando migrar para a área
 - 🌱 Estudando Java
 
-<div>
-  <a href="">
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=IMonteiroDev&show_icons=true&theme=radical" />
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMonteiroDev)](https://github.com/anuraghazra/github-readme-stats)
 
