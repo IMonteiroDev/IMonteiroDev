@@ -14,6 +14,8 @@
   <img align="center" alt="HTML5" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS3" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="MySql" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Java" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+
 </div>
 
 ##
