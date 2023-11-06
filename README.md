@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/IMonteiroDev"/>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=IMonteiroDev&show_icons=true&theme=aura_dark"/>
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IMonteiroDev&layout=compact&langs_count=16&theme=nightowl"/>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=IMonteiroDev&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
 
 
