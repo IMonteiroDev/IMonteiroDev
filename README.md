@@ -1,7 +1,6 @@
 ## Olá, sou o Igor Monteiro!
 
-- 🔭 Em migração de área
-- 🌱 Estudando Java
+- 🌱 Desenvolvedor Junior
 
 <div>
 <a href="https://github.com/IMonteiroDev"/>
